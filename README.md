@@ -40,10 +40,6 @@ This repository is a paper list of medical image registration.
 
 2022 KDD - ERNet Unsupervised Collective Extraction and Registration in Neuroimaging Data - [[Paper]](https://dl.acm.org/doi/abs/10.1145/3534678.3539227)
 
-2022 MIA - Dual Stream Pyramid Registration Network - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841522000317)
-
-2022 MIA - TransMorph Transformer for Unsupervised Medical Image Registration - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841522002432) [[Code]](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)
-
 2022 MICCAI - Adapting the Mean Teacher for Keypoint-based Lung Registration under Geometric Domain Shifts - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_27) [[Code]](https://github.com/multimodallearning/registration-da-mean-teacher)
 
 2022 MICCAI - ContraReg Contrastive Learning of Multi-modality Unsupervised Deformable Image Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_7)
@@ -51,5 +47,9 @@ This repository is a paper list of medical image registration.
 2022 MICCAI - Coordinate Translator for Learning Deformable Medical Image Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-18814-5_10)
 
 2022 MICCAI - Double-Uncertainty Guided Spatial and Temporal Consistency Regularization Weighting for Learning-based Abdominal Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_2)
+
+2022 MIA - Dual Stream Pyramid Registration Network - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841522000317)
+
+2022 MIA - TransMorph Transformer for Unsupervised Medical Image Registration - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841522002432) [[Code]](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)
 
 2022 TCSVT - Cross-Resolution Distillation for Efficient 3D Medical Image Registration - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9782430)
