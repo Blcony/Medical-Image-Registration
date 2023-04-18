@@ -8,6 +8,8 @@ This repository is a paper list of medical image registration.
 
 2018 MICCAI - Unsupervised Learning for Fast Probabilistic Diffeomorphic Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_82) [[Code]](https://github.com/voxelmorph/voxelmorph)
 
+2019 MICCAI - Fast and Accurate Electron Microscopy Image Registration with 3D Convolution - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-32239-7_53)
+
 2019 MICCAI - Dual Stream Pyramid Registration Network - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-32245-8_43)
 
 2019 ICCV - Recursive Cascaded Networks for Unsupervised Medical Image Registration - [[Paper]](https://openaccess.thecvf.com/content_ICCV_2019/html/Zhao_Recursive_Cascaded_Networks_for_Unsupervised_Medical_Image_Registration_ICCV_2019_paper.html) [[Code]](https://github.com/zsyzzsoft/Recursive-Cascaded-Networks)
@@ -17,6 +19,8 @@ This repository is a paper list of medical image registration.
 2019 NIPS - Learning Conditional Deformable Templates with Convolutional Networks - [[Paper]](https://proceedings.neurips.cc/paper/2019/hash/bbcbff5c1f1ded46c25d28119a85c6c2-Abstract.html) [[Code]](https://github.com/voxelmorph/voxelmorph)
 
 2020 MICCAI - Adversarial Uni- and Multi-modal Stream Networks for Multimodal Image Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_22)
+
+2020 MLMI - Self-recursive Contextual Network for Unsupervised 3D Medical Image Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-59861-7_7)
 
 2020 MICCAI - Large Deformation Diffeomorphic Image Registration with Laplacian Pyramid Networks - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_21) [[Code]](https://github.com/cwmok/LapIRN)
 
@@ -48,3 +52,4 @@ This repository is a paper list of medical image registration.
 
 2022 MICCAI - Double-Uncertainty Guided Spatial and Temporal Consistency Regularization Weighting for Learning-based Abdominal Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_2)
 
+2022 TCSVT - Cross-Resolution Distillation for Efficient 3D Medical Image Registration - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9782430)
