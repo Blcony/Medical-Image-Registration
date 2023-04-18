@@ -4,8 +4,7 @@ This repository is a paper list of medical image registration.
 
 ## Paper List
 
-2018 CVPR - An Unsupervised Learning Model for Medical Deformable Image Registration - \
-[[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Balakrishnan_An_Unsupervised_Learning_CVPR_2018_paper.html) [[Bib]](https://scholar.googleusercontent.com/scholar.bib?q=info:7t0EkNJVEKsJ:scholar.google.com/&output=citation&scisdr=Cpv-iHNjEMuG2LupMZg:AJ9-iYsAAAAAZD6vKZjXQZlkI9fbUXi11eMwGu8&scisig=AJ9-iYsAAAAAZD6vKWzR59mIiWMJ9NWjiCU8mLI&scisf=4&ct=citation&cd=-1&hl=zh-CN) [[Code]](https://github.com/voxelmorph/voxelmorph)
+2018 CVPR - An Unsupervised Learning Model for Medical Deformable Image Registration - [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Balakrishnan_An_Unsupervised_Learning_CVPR_2018_paper.html) [[Bib]](https://scholar.googleusercontent.com/scholar.bib?q=info:7t0EkNJVEKsJ:scholar.google.com/&output=citation&scisdr=Cpv-iHNjEMuG2LupMZg:AJ9-iYsAAAAAZD6vKZjXQZlkI9fbUXi11eMwGu8&scisig=AJ9-iYsAAAAAZD6vKWzR59mIiWMJ9NWjiCU8mLI&scisf=4&ct=citation&cd=-1&hl=zh-CN) [[Code]](https://github.com/voxelmorph/voxelmorph)
 
 2018 MICCAI - Unsupervised Learning for Fast Probabilistic Diffeomorphic Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_82)  [[Bib]](https://scholar.googleusercontent.com/scholar.bib?q=info:GuBy1B4BFOAJ:scholar.google.com/&output=citation&scisdr=Cpv-iHNjEMuG2LuppK4:AJ9-iYsAAAAAZD6vvK5o9JKkxStn3qCXpBmW-Wk&scisig=AJ9-iYsAAAAAZD6vvFJbtD3UmEwiupjImmb9Q6k&scisf=4&ct=citation&cd=-1&hl=zh-CN) [[Code]](https://github.com/voxelmorph/voxelmorph)
 
