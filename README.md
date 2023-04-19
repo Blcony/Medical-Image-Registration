@@ -58,7 +58,7 @@ This repository is a paper list of medical image registration.
 
 2022 MICCCAI - Deformer Towards Displacement Field Learning for Unsupervised Medical Image Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_14)
 
-
+2022 TMI - Joint Progressive and Coarse-to-fine Registration of Brain MRI via Deformation Field Integration and Non-Rigid Feature Fusion - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9765391/) [[Code]](https://github.com/OldDriverJinx/Progressvie-and-Coarse-to-fine-Registration-Network)
 
 2022 MIA - Dual Stream Pyramid Registration Network - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841522000317)
 
