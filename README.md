@@ -53,3 +53,7 @@ This repository is a paper list of medical image registration.
 2022 MIA - TransMorph Transformer for Unsupervised Medical Image Registration - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841522002432) [[Code]](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)
 
 2022 TCSVT - Cross-Resolution Distillation for Efficient 3D Medical Image Registration - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9782430)
+
+2022 JBHI - Recursive Decomposition Network for Deformable Image Registration - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9826364)
+
+2023 TMI - Self-Distilled Hierarchical Network for Unsupervised Deformable Image Registration - [[Paper]](https://ieeexplore.ieee.org/abstract/document/10042453) [[Code]](https://github.com/Blcony/SDHNet)
