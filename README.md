@@ -44,8 +44,6 @@ This repository is a paper list of medical image registration.
 
 2022 MICCAI - ContraReg Contrastive Learning of Multi-modality Unsupervised Deformable Image Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_7)
 
-2022 MICCAI - Coordinate Translator for Learning Deformable Medical Image Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-18814-5_10)
-
 2022 MICCAI - Double-Uncertainty Guided Spatial and Temporal Consistency Regularization Weighting for Learning-based Abdominal Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_2)
 
 2022 MICCAI - Dual-Branch Squeeze-Fusion-Excitation Module for Cross-Modality Registration of Cardiac SPECT and CT - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_5) [[Code]](https://github.com/XiongchaoChen/DuSFE_CrossRegistration)
