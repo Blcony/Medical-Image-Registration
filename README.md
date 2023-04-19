@@ -60,6 +60,10 @@ This repository is a paper list of medical image registration.
 
 2022 TMI - Joint Progressive and Coarse-to-fine Registration of Brain MRI via Deformation Field Integration and Non-Rigid Feature Fusion - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9765391/) [[Code]](https://github.com/OldDriverJinx/Progressvie-and-Coarse-to-fine-Registration-Network)
 
+2022 TMI - Light-weight Deformable Registration using Adversarial Learning with Distilling Knowledge - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9672098) [[Code]](https://github.com/aioz-ai/LDR_ALDK)
+
+2022 TMI - Unsupervised Histological Image Registration Using Structure Feature Guided Convolutional Neural Network - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9745959) [[Code]](https://github.com/wendy127green/SFG/tree/master/SFG)
+
 2022 MIA - Dual Stream Pyramid Registration Network - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841522000317)
 
 2022 MIA - TransMorph Transformer for Unsupervised Medical Image Registration - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841522002432) [[Code]](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)
