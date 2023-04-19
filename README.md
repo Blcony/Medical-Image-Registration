@@ -48,6 +48,19 @@ This repository is a paper list of medical image registration.
 
 2022 MICCAI - Double-Uncertainty Guided Spatial and Temporal Consistency Regularization Weighting for Learning-based Abdominal Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_2)
 
+2022 MICCAI - Dual-Branch Squeeze-Fusion-Excitation Module for Cross-Modality Registration of Cardiac SPECT and CT - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_5) [[Code]](https://github.com/XiongchaoChen/DuSFE_CrossRegistration)
+
+2022 MICCAI - Electron Microscope Image Registration using Laplacian Sharpening Transformer U-Net - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_30)
+
+2022 MICCAI - Unsupervised Deformable Image Registration with Absent Correspondences in Pre-operative and Post-Revurrence Brain Tumor MRI Scans - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_3) [[Code]](https://github.com/cwmok/DIRAC)
+
+2022 MICCAI - XMorpher Full Transformer for Deformable Medical Image Registration via Cross Attention - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_21) [[Code]](https://github.com/Solemoon/XMorpher)
+
+
+
+
+
+
 2022 MIA - Dual Stream Pyramid Registration Network - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841522000317)
 
 2022 MIA - TransMorph Transformer for Unsupervised Medical Image Registration - [[Paper]](https://www.sciencedirect.com/science/article/pii/S1361841522002432) [[Code]](https://github.com/junyuchen245/TransMorph_Transformer_for_Medical_Image_Registration)
