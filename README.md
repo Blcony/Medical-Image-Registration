@@ -56,8 +56,7 @@ This repository is a paper list of medical image registration.
 
 2022 MICCAI - XMorpher Full Transformer for Deformable Medical Image Registration via Cross Attention - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_21) [[Code]](https://github.com/Solemoon/XMorpher)
 
-
-
+2022 MICCCAI - Deformer Towards Displacement Field Learning for Unsupervised Medical Image Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_14)
 
 
 
