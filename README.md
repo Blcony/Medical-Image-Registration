@@ -2,7 +2,7 @@
 
 This repository is a paper list of medical image registration. 
 
-## Paper List
+## Learning-based Methods
 
 2018 CVPR - An Unsupervised Learning Model for Deformable Medical Image Registration - [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Balakrishnan_An_Unsupervised_Learning_CVPR_2018_paper.html) [[Code]](https://github.com/voxelmorph/voxelmorph)
 
