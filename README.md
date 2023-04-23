@@ -50,6 +50,8 @@ This repository is a paper list of medical image registration.
 
 2022 MICCAI - Electron Microscope Image Registration using Laplacian Sharpening Transformer U-Net - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_30)
 
+2022 MICCAI - Non-iterative Coarse-to-fine Registration based on Single-pass Deep Cumulative Learning - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_9) [[Code]](https://github.com/MungoMeng/Registration-NICE-Net)
+
 2022 MICCAI - Unsupervised Deformable Image Registration with Absent Correspondences in Pre-operative and Post-Revurrence Brain Tumor MRI Scans - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_3) [[Code]](https://github.com/cwmok/DIRAC)
 
 2022 MICCAI - XMorpher Full Transformer for Deformable Medical Image Registration via Cross Attention - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-031-16446-0_21) [[Code]](https://github.com/Solemoon/XMorpher)
