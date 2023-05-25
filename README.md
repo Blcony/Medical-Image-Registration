@@ -2,13 +2,13 @@
 
 This repository is a paper list of medical image registration. 
 
-## Year 2018
+## 2018
 
 CVPR - An Unsupervised Learning Model for Deformable Medical Image Registration - [[Paper]](https://openaccess.thecvf.com/content_cvpr_2018/html/Balakrishnan_An_Unsupervised_Learning_CVPR_2018_paper.html) [[Code]](https://github.com/voxelmorph/voxelmorph)
 
 MICCAI - Unsupervised Learning for Fast Probabilistic Diffeomorphic Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-00928-1_82) [[Code]](https://github.com/voxelmorph/voxelmorph)
 
-## Year 2019
+## 2019
 
 MICCAI - Fast and Accurate Electron Microscopy Image Registration with 3D Convolution - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-32239-7_53)
 
@@ -20,7 +20,7 @@ NIPS - Learning Conditional Deformable Templates with Convolutional Networks - [
 
 JBHI - Unsupervised 3D End-to-End Medical Image Registration with Volume Tweening Network - [[Paper]](https://ieeexplore.ieee.org/abstract/document/8889674)
 
-## Year 2020
+## 2020
 
 MICCAI - Adversarial Uni- and Multi-modal Stream Networks for Multimodal Image Registration - [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-59716-0_22)
 
@@ -30,7 +30,7 @@ MICCAI - Large Deformation Diffeomorphic Image Registration with Laplacian Pyram
 
 TMI - ANHIR Automatic Non-Rigid Histological Image Registration Challenge - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9058666) [[Code]](https://anhir.grand-challenge.org/)
 
-## Year 2021
+## 2021
 
 ICCV - Generative Adversarial Registration for Improved Conditional Deformable Templates - [[Paper]](https://openaccess.thecvf.com/content/ICCV2021/html/Dey_Generative_Adversarial_Registration_for_Improved_Conditional_Deformable_Templates_ICCV_2021_paper.html) [[Code]](https://github.com/neel-dey/Atlas-GAN)
 
@@ -40,7 +40,7 @@ MICCAI - Conditional Deformable Image Registration with Convolutional Neural Net
 
 TMI - GraphRegNet Deep Graph Regularisation Networks on Sparse Keypoints for Dense Registration of 3D Lung CTs - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9406964/) [[Code]](https://github.com/multimodallearning/graphregnet)
 
-## Year 2022
+## 2022
 
 CVPR - Affine Medical Image Registration with Coarse-to-Fine Vision Transformer - [[Paper]](https://openaccess.thecvf.com/content/CVPR2022/html/Mok_Affine_Medical_Image_Registration_With_Coarse-To-Fine_Vision_Transformer_CVPR_2022_paper.html) [[Code]](https://github.com/cwmok/C2FViT)
 
@@ -80,6 +80,6 @@ TCSVT - Cross-Resolution Distillation for Efficient 3D Medical Image Registratio
 
 JBHI - Recursive Decomposition Network for Deformable Image Registration - [[Paper]](https://ieeexplore.ieee.org/abstract/document/9826364)
 
-## Year 2023
+## 2023
 
 TMI - Self-Distilled Hierarchical Network for Unsupervised Deformable Image Registration - [[Paper]](https://ieeexplore.ieee.org/abstract/document/10042453) [[Code]](https://github.com/Blcony/SDHNet)
